@@ -30,7 +30,7 @@
     "lodash": "^4.17.10",
     "request": "^2.34.0",
     "swagger-client": "2.0.26",
-    "uuid": "^3.0.0",
+    "uuid": "^3.4.0",
     "ws": "^6.0.0"
   },
   "engines": {
