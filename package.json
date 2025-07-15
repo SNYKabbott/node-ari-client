@@ -28,7 +28,7 @@
     "backoff-func": "^0.1.2",
     "bluebird": "^3.5.2",
     "lodash": "^4.17.10",
-    "request": "^2.34.0",
+    "request": "^2.88.2",
     "swagger-client": "2.0.26",
     "uuid": "^3.0.0",
     "ws": "^6.0.0"
